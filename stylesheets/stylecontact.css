@@ -1,0 +1,381 @@
+/* CSS Document */
+
+*{
+
+	padding:0px;
+
+	margin: 0px;
+
+	font-family: Helvetica, "Comic sans ms", "sans-serif";
+
+		
+
+}
+
+
+
+.top-banner{
+
+	font-family:"Times New Roman",Helvetica, "Comic sans ms", "sans-serif";
+
+	height:30px;
+
+	background-color: #222;
+
+}
+
+
+
+.main-board{
+
+	background-color: #ddd;
+
+	margin-top: 0px;
+
+	height:730px;
+
+    border:1px solid black;
+
+	text-decoration: none;
+
+
+
+}
+
+.name{
+
+	margin-top: 30px;
+
+	margin-left: 25%;
+
+	float: left;
+
+}
+
+
+
+.name h1{
+
+	font-size: 30px;
+
+}
+
+.name p{
+
+	font-size: 20px;
+
+	font-weight: bold;
+
+	margin-top: 10px;
+
+}
+
+
+
+.nav{
+
+	margin-top: 110px;
+
+	margin-left: 42%;
+
+}
+
+.nav li{
+
+	display: inline;
+
+	padding:15px;
+
+	text-decoration: none;
+
+	font-size: 15px;
+
+	color:#bbb;
+
+}
+
+
+
+.nav li a{
+
+	color:#777;
+
+	font-weight: bold;
+
+	text-decoration: none;
+
+}
+
+
+
+.nav li a:active{
+
+	color:#35b;
+
+}
+
+
+
+.nav li a:hover{
+
+	color:#E60045;
+
+}
+
+
+
+.endBanner{
+
+	padding: 40px;
+
+	margin-top: 48px;
+
+	background-color: #E60045;
+
+	height:50px;
+
+	
+
+}
+
+
+
+.Call,.Contact,.Follow,.Copyright{
+
+	float:left;
+
+	color:#fff;
+
+	padding-left: 20px;
+
+}
+
+
+
+.Call img,.Contact img,.Follow img,.Copyright img{
+
+	height:35px;
+
+	width: 35px;
+
+	
+
+}
+
+
+
+
+
+.call img{
+
+	margin-left: 20%;
+
+	height:35px;
+
+	width: 35px;
+
+	margin-right: 10px;
+
+	float:left;
+
+}
+
+
+
+.contact img{
+
+	margin-left: 30px;
+
+	height:35px;
+
+	width: 35px;
+
+	margin-right: 10px;
+
+	float:left;
+
+}
+
+
+
+.followme img{
+
+	margin-left: 30px;
+
+	height:35px;
+
+	width: 35px;
+
+	margin-right: 10px;
+
+	float:left;
+
+}
+
+
+
+.copyright img{
+
+	margin-left: 30px;
+
+	height:35px;
+
+	width: 35px;
+
+	margin-right: 10px;
+
+	float:left;
+
+}
+
+
+
+.endpara{
+
+	color:#fff;	
+
+	margin-left: 5px;
+
+	float:left;
+
+}
+
+
+
+.footer{
+
+	height:30px;
+
+	background-color: #222;
+
+}
+
+
+
+#Contact123{
+
+	
+
+	float:left;
+
+	margin-left: 25%;
+
+}
+
+
+
+.contactSide{
+
+	
+
+	margin-top: 100px;
+
+}
+
+
+
+.contactpara{
+
+	
+
+	font-size: 50px;
+
+	color:#555;
+
+	margin-top: 20px;
+
+
+
+}
+
+
+
+.contactform{
+
+	
+
+	padding: 20px;
+
+	margin-left: 48%;
+
+	margin-top: 20px;
+
+	margin-right: 27%;
+
+
+
+}
+
+
+
+.formelements{
+
+	margin-top: 20px;
+
+}
+
+
+
+input[type="text"],textarea{
+
+	background-color: #EE054A;
+
+	color:#fff;
+
+}
+
+
+
+placeholder{
+
+	color:#fff;
+
+}
+
+::-webkit-input-placeholder {
+
+   color: #fff;
+
+}
+
+
+
+:-moz-placeholder { /* Firefox 18- */
+
+   color: #fff;  
+
+}
+
+
+
+::-moz-placeholder {  /* Firefox 19+ */
+
+   color: #fff;  
+
+}
+
+
+
+:-ms-input-placeholder {  
+
+   color: #fff;  
+
+}
+
+
+
+#submit1{
+
+	margin-left:210px;
+
+}
+
+
+
+#nameplate{
+
+
+
+	
+
+}
