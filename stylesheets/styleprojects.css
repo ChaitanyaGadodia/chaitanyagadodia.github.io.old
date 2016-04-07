@@ -1,0 +1,557 @@
+/* CSS Document */
+
+*{
+
+	padding:0px;
+
+	margin: 0px;
+
+	font-family: Helvetica, "Comic sans ms", "sans-serif";
+
+		
+
+}
+
+
+
+.top-banner{
+
+	height:30px;
+
+	font-family:"Times New Roman",Helvetica, "Comic sans ms", "sans-serif";
+
+	background-color: #222;
+
+}
+
+
+
+.main-board{
+
+	background-color: #ddd;
+
+	margin-top: 0px;
+
+	height:780px;
+
+border:1px solid black;
+
+	text-decoration: none;
+
+
+
+}
+
+.name{
+
+	margin-top: 30px;
+
+	margin-left: 25%;
+
+	float: left;
+
+}
+
+
+
+.name h1{
+
+	font-size: 30px;
+
+}
+
+.name p{
+
+	font-size: 20px;
+
+	font-weight: bold;
+
+	margin-top: 10px;
+
+}
+
+
+
+.nav{
+
+	margin-top: 110px;
+
+	margin-left: 42%;
+
+}
+
+.nav li{
+
+	display: inline;
+
+	padding:15px;
+
+	text-decoration: none;
+
+	font-size: 15px;
+
+	color:#bbb;
+
+}
+
+
+
+.nav li a{
+
+	color:#777;
+
+	font-weight: bold;
+
+	text-decoration: none;
+
+}
+
+
+
+.nav li a:active{
+
+	color:#35b;
+
+}
+
+
+
+.nav li a:hover{
+
+	color:#E60045;
+
+}
+
+
+
+.mypic{
+
+	margin-top: 100px;
+
+	margin-left: 21%;
+
+	float:left;
+
+	display: inline;
+
+
+
+}
+
+.mypic img{
+
+	height:390px;
+
+	width:370px;
+
+	border-radius: 200px;
+
+
+
+}
+
+
+
+.picside{
+
+	margin-top: 40px;
+
+	margin-left: 47%;
+
+	color: #444;
+
+}
+
+.intro h1{
+
+	font-size: 80px;
+
+}
+
+.intro p{
+
+	margin-top: 20px;
+
+	font-size: 50px;
+
+}
+
+
+
+.circle1{
+
+	background-color: #E60045;
+
+	height:120px;
+
+	width:120px;
+
+	border-radius: 60px;
+
+	float:left;
+
+	margin:20px;
+
+
+
+}
+
+.circle2{
+
+	background-color: #00E6E6;
+
+	height:120px;
+
+	width:120px;
+
+	border-radius: 60px;
+
+	float:left;
+
+	margin:20px;
+
+}
+
+
+
+.circle3{
+
+	background-color: #B6D600;
+
+	height:120px;
+
+	width:120px;
+
+	border-radius: 60px;
+
+	float:left;
+
+	margin:20px;
+
+	display: block;
+
+}
+
+
+
+.aboutme{
+
+	margin-top: 20px;
+
+	color:#666;
+
+	
+
+	display: block;
+
+	float:left;
+
+	width:500px;
+
+}
+
+
+
+.circle1 p{
+
+	margin-top:50px;
+
+	color:#fff;
+
+	text-align: center;
+
+}
+
+.circle2 p{
+
+	margin-top:50px;
+
+	color:#fff;
+
+	text-align: center;
+
+}
+
+.circle3 p{
+
+	margin-top:50px;
+
+	color:#fff;	
+
+	text-align: center;
+
+}
+
+.circle1:hover{
+
+	background-color: #99022F;
+
+}
+
+.circle2:hover{
+
+	background-color: #018A8A;
+
+}
+
+.circle3:hover{
+
+	background-color: #7C9101;
+
+}
+
+
+
+.endBanner{
+
+	padding: 40px;
+
+	margin-top: 300px;
+
+	background-color: #E60045;
+
+	height:50px;
+
+	
+
+}
+
+
+
+.Call,.Contact,.Follow,.Copyright{
+
+	
+
+	float:left;
+
+	color:#fff;
+
+	padding-left: 20px;
+
+}
+
+
+
+.Call img,.Contact img,.Follow img,.Copyright img{
+
+	
+
+	height:35px;
+
+	width: 35px;
+
+	
+
+}
+
+
+
+
+
+.call img{
+
+	margin-left: 20%;
+
+	
+
+	height:35px;
+
+	width: 35px;
+
+	margin-right: 10px;
+
+	float:left;
+
+}
+
+
+
+.contact img{
+
+	margin-left: 30px;
+
+	
+
+	height:35px;
+
+	width: 35px;
+
+	margin-right: 10px;
+
+	float:left;
+
+}
+
+
+
+.followme img{
+
+		margin-left: 30px;
+
+	
+
+	height:35px;
+
+	width: 35px;
+
+	margin-right: 10px;
+
+	float:left;
+
+}
+
+
+
+.copyright img{
+
+	margin-left: 30px;	
+
+	height:35px;
+
+	width: 35px;
+
+	margin-right: 10px;
+
+	float:left;
+
+}
+
+
+
+.endpara{
+
+	color:#fff;
+
+	margin-left: 5px;
+
+	float:left;
+
+}
+
+
+
+.footer{
+
+	height:30px;
+
+	background-color: #222;
+
+}
+
+
+
+.Projectmain-board{
+
+	background-color: #ddd;
+
+	margin-top: 0px;
+
+	height:100%;
+
+    border:1px solid black;
+
+	text-decoration: none;
+
+
+
+}
+
+
+
+.ProjectsendBanner{
+
+	padding: 40px;
+
+	margin-top: 50px;
+
+	background-color: #E60045;
+
+	height:50px;
+
+	
+
+}
+
+
+
+.Projects{
+
+	
+
+}
+
+
+
+.ProjectHeader span{
+
+	font-size: 70px;
+
+	margin-left: 25%;
+
+
+
+}
+
+
+
+#ProjectLine1{
+
+	margin-left:25%;
+
+	margin-right: 25%;
+
+}
+
+
+
+.ProjectList{
+
+
+
+	padding:20px;
+
+	height:300px;
+
+	margin-left: 25%;
+
+}
+
+
+
+.ProjectDescription{
+
+	color:#456;
+
+	margin-left: 35%;
+
+	margin-right: 33%;
+
+}
+
+
+
+.ProjectCircle{
+
+	width:100px;
+
+	height:100px;
+
+	border-radius: 50px;
+
+	background-color: #00E6E6;
+
+	color:#fff;
+
+	margin-left: 35%;
+
+}
+
+.ProjectCircle p{
+
+	padding-top: 40px;
+
+	text-align: center;
+
+}
+
+
